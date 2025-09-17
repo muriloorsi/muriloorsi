@@ -2,8 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=1000&pause=100000&color=00AC1D&multiline=true&width=1200&height=60&lines=Senhores+e+Senhores%2C+sejam+bem+vindo+ao+meu+git!+Meu+nome+%C3%A9+murilo+Orsi+marcehzzane." alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=1000&pause=100000&color=ECE400&multiline=true&width=1200&height=60&lines=Se%C3%B1oras+y+se%C3%B1ores%2C+%C2%A1bienvenidos+a+mi+git!+Mi+nombre+es+Murilo+Orsi+Marcehzzane." alt="Typing SVG" /></a>
 
-## brief description 
-
+## Brief Description 
+I am currently studying Computer Science at the Mauá Institute of Technology, with previous technical training in Systems Analysis and Development. At 20 years old, my great passion is technology, especially cybersecurity. I am also part of Guardian  <a href="https://github.com/GuardianMaua" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> , a commissioned entity dedicated to this topic. I am always seeking to learn and evolve professionally. In my leisure time, I am a big fan of cars and various genres of music, and my Christian faith is also an important pillar in my life.
 
 ## Types of knowledge language
 
